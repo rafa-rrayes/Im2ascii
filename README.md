@@ -23,6 +23,7 @@ The square parameter makes sure your image is returned squared and not a rectang
 ````
 asciify('image.png', square=False)
 ````
-The inevert parameter invert the tones on the result of the image. like so:
+
+The invert parameter invert the tones on the result of the image. like so:
 For white tones, a '.' will be added, and for darker tones, a '@' will be the result. if you use ``invert=True``, this will be inverted
 
