@@ -25,5 +25,4 @@ asciify('image.png', square=False)
 ````
 
 The invert parameter invert the tones on the result of the image. like so:
-For white tones, a '.' will be added, and for darker tones, a '@' will be the result. if you use ``invert=True``, this will be inverted
-
+For white tones, a '.' will be added, and for darker tones, a '@' will be the result. if you use ``invert=True``, this will be inverted.
